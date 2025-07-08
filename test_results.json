@@ -1,0 +1,14 @@
+[
+  {
+    "image_path": "archive/img/1.jpg",
+    "detections": [],
+    "confidence_scores": [],
+    "bounding_boxes": [],
+    "inference_time": 3.479625940322876,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "output_path": "test_results\\1_result.jpg"
+  }
+]

@@ -1,0 +1,19 @@
+# Car Defect Dataset Configuration (YOLO Format)
+# This file defines the dataset for YOLOv8 training.
+
+# Absolute path to the dataset root directory
+# IMPORTANT: Make sure this path is correct for your system.
+path: C:/Users/Aditya Sharma/Desktop/MLPROJECT/dataset
+
+# Paths to train and validation images, relative to 'path'
+train: images/train
+val: images/val # Must point to a directory, even if empty.
+
+# Class names in the correct order (ID 0 to 5)
+names:
+  0: damage
+  1: headlamp
+  2: front_bumper
+  3: hood
+  4: door
+  5: rear_bumper 
